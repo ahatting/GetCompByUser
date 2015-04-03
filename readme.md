@@ -4,7 +4,7 @@ _PowerShell script to find computers in SCCM based on the last logged on user._
 
 **minimal requirements**
 - Windows PowerShell version 2 or higher
-- Sufficient access in SCCM (remote access would be awesome ;-))
+- Sufficient access in SCCM
 
 **Instructions**
 - Add SamAccountNames to inputlist.csv
